@@ -1,5 +1,3 @@
-g
-g
 #include <stdio.h>
 
 /**
